@@ -11,7 +11,7 @@ int main()
 {
     cout << "Práctica #01" << endl;
     cout << "Ejercicio 02: Cilindro" << endl;
-    cout << "Autor: Rodrigo Tufiño" << endl << endl;
+    cout << "Autor: Mayerli CAmpuez" << endl << endl;
 
     // Instancia (creando) objeto circulo
     Circulo c(4.0);
